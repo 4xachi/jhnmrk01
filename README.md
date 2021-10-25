@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhnmrk</h1>
-<h3 align="center">A Web Developer from Philippines  width="14"/> </h3>
+<h3 align="center">A Web Developer from Philippines </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
 - 🔭 I’m currently Studying  at [Olivarez College Tagaytay ](https://www.olivarezcollegetagaytay.edu.ph/home/)
